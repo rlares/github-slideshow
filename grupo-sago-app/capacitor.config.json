@@ -1,0 +1,13 @@
+{
+  "appId": "com.gruposago.valuacion",
+  "appName": "GRUPO SAGO",
+  "webDir": "out",
+  "bundledWebRuntime": false,
+  "server": {
+    "cleartext": true,
+    "androidScheme": "https"
+  },
+  "ios": {
+    "contentInset": "always"
+  }
+}
